@@ -1,6 +1,7 @@
 # This is a functional sorta programming Language, sorta because it;s a multi-paradigm language
 
-- for ```
+- for
+```
 struct ContentView: View {
     var body: some View {
         VStack {
